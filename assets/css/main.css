@@ -194,6 +194,7 @@ img {
 }
 .about__img img {
   width: 100px;
+  object-fit: cover;
 }
 .about__subtitle {
   font-size: 1.25rem;
@@ -254,6 +255,7 @@ img {
 }
 .portfolio__img img {
   border-radius: 0.5rem;
+  object-fit: cover;
 }
 .portfolio__img:hover .portfolio__link {
   bottom: 0;
